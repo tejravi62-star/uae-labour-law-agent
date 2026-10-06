@@ -1,0 +1,26 @@
+{
+  "display_name": "UAE Labour Law",
+  "language": "en",
+  "ingest": [
+    "labour-law-consolidated-en.pdf"
+  ],
+  "strategy": "page",
+  "page_parts": {
+    "1-24": "Decree-Law 33/2021",
+    "25-38": "Executive Regulation (Cabinet Resolution 1/2022)"
+  },
+  "parts": {
+    "1": "Decree-Law 33/2021",
+    "2": "Executive Regulation (Cabinet Resolution 1/2022)"
+  },
+  "glossary": {
+    "gratuity": "end of service benefits",
+    "quit": "resignation termination by the worker",
+    "resign": "resignation termination by the worker",
+    "salary": "wage basic wage",
+    "passport": "official documents withholding",
+    "fired": "termination by the employer dismissal",
+    "notice period": "notice",
+    "overtime": "additional working hours"
+  }
+}

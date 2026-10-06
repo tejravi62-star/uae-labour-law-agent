@@ -1,0 +1,9 @@
+azure-identity
+azure-search-documents
+azure-storage-blob
+openai
+langchain-text-splitters
+langchain-openai
+pypdf
+python-dotenv
+fonttools
