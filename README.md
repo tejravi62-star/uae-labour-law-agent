@@ -5,6 +5,7 @@ Ask about your rights at work in plain language. Get answers grounded in the off
 Built as a **reusable, secure agent framework** that deploys into any Azure tenant.
 
 > 🎥 **Demo:** _link to video_
+>
 > ⚠️ Independent learning project on public law. General information, not legal advice. Not affiliated with any government entity. The Arabic text of the law is authoritative.
 
 ---
